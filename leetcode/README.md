@@ -9,3 +9,6 @@ ____
 |  | | v2.0 | 10.63 | 10.11 | 2021-12-28 | 
 | 2 | add-two-nums | - | 96.13 | 48.45 | 2021-12-28 |
 | 3 | longest-substring-without-repeating-characters | v1.0 | 100 | 68.71 | 2021-12-29 |
+|  | | v2.0 | 100.00 | 68.50 | 2022-01-03 |
+| 4 | median-of-two-sorted-arrays | v1.0 | 30.02 | 11.27 | 2022-01-04 |
+

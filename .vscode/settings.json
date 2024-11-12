@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.xml": "xml",
+        "*.py": "python",
+        "chrono": "c",
+        "variant": "c"
+    }
+}
